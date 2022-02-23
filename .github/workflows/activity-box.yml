@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_USERNAME: Jihoon0324
+          GH_USERNAME: jihoon0324
           GIST_ID: 644643f03b5b4605af43bba5f75b18ed
